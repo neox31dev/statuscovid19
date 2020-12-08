@@ -1,2 +1,9 @@
 # statuscovid19
-Programa criado para mostrar o status do Covid-19
+<br>**Used librarys:**
+```
+requests
+json
+time
+os
+getpass
+```
