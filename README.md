@@ -1,4 +1,4 @@
-# statuscovid19
+# Status Covid-19
 <br>**Used librarys:**
 ```
 requests
